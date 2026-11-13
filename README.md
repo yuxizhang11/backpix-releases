@@ -1,3 +1,3 @@
-# Aufräumer Releases
+# Backpix Releases
 
-Installer und Updates für den Aufräumer.
+Installer und Updates für Backpix.
